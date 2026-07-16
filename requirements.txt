@@ -1,0 +1,12 @@
+torch>=2.2.0
+transformers==4.46.3
+datasets==3.1.0
+accelerate==1.1.1
+evaluate==0.4.3
+sentencepiece
+numpy
+pandas
+scikit-learn
+tqdm
+jupyter
+ipykernel

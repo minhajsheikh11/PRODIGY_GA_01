@@ -1,4 +1,4 @@
-# GPT-2 Text Generation using Hugging Face Transformers
+# GPT-2 Text Generation 
 
 ## Overview
 

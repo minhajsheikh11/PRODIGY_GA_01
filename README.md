@@ -111,23 +111,9 @@ Once upon a time, there was a little girl named Lily who loved exploring the for
 GPT2_Text_Generation.ipynb
 README.md
 requirements.txt
-outputs/
-images/
-```
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/<your-username>/gpt2-text-generation.git
-
-cd gpt2-text-generation
-
-pip install -r requirements.txt
-```
-
----
 
 ## Run
 
